@@ -13,6 +13,6 @@
    cd SergeevJava
 
 2. **Скомпилируйте и запустите**:
-   '''sh
+   ```sh
    javac -d out src/org/sergeev/java/*.java
    java -cp out org.sergeev.java.Main
