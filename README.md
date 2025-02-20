@@ -9,7 +9,7 @@
 ## 🚀 Как запустить?
 1. **Скачайте проект**:
    ```sh
-   git clone https://github.com/sergeev/SergeevJava.git ПОСТАВИТЬ НОВУЮ ССЫЛКУ
+   git clone https://github.com/sergeevoa/SergeevJava
    cd SergeevJava
 
 2. **Скомпилируйте и запустите**:
